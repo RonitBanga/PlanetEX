@@ -3,7 +3,7 @@ function calmercury(){
     let mercuryw = weight * 0.38;
     document.getElementById('root').innerHTML = ("Your weight on Mercury is : " + mercuryw);
 }
-
+ 
 function calvenus(){
     let weight = document.getElementById("hellohowareyou").value;
     let venusw = weight * 0.91;
